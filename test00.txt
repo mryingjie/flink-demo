@@ -1,0 +1,12 @@
+apache spark hadoop flume
+kafka hbase hive flink
+sqoop hue oozie zookeeper
+kafka hbase oozie zookeeper
+apache spark hadoop flink
+kafka hbase hive flink
+sqoop hue oozie zookeeper
+kafka hbase hive flink
+sqoopkafka hbase hive flink
+kafka hbase hive flink
+sqoopkafka hbase hive flink
+sqoopkafka hbase hive flinkp kafka hbase hive flink

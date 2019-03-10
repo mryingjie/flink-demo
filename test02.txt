@@ -1,0 +1,7 @@
+apache 2
+kafka 1
+apache 3
+kafka 2
+apache 5
+kafka 1
+sqoop 1

@@ -1,0 +1,5 @@
+svm lr softmax gbdt
+cnn rnn lstm gan
+sgd adam relu rss
+cnn rnn lstm gbdt
+svm lr softmax adam
